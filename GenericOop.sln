@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericOop", "GenericOop.csproj", "{88ED1386-AB89-4099-9913-96C87F3285AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88ED1386-AB89-4099-9913-96C87F3285AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88ED1386-AB89-4099-9913-96C87F3285AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88ED1386-AB89-4099-9913-96C87F3285AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88ED1386-AB89-4099-9913-96C87F3285AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D95615FF-36F8-44B5-BD39-83F54DE1FDD3}
+	EndGlobalSection
+EndGlobal
